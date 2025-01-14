@@ -1,5 +1,5 @@
 {
-  "name": "stencil-storybook-token-demo",
+  "name": "stencil-storybook-css-new",
   "version": "0.0.1",
   "description": "",
   "repository": "",
@@ -15,7 +15,7 @@
   "types": "dist/types/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/stencil-storybook-token-demo/stencil-storybook-token-demo.js",
+  "unpkg": "dist/stencil-storybook-css-new/stencil-storybook-css-new.js",
   "files": [
     "dist/",
     "loader/"
